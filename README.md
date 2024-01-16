@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Installation
+
+1. Clone this repository: `https://github.com/Pravin-Devloper/search-movie-app.git`
+2. Navigate to the project directory: `cd search-movie-app`
+3. Install dependencies: `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
